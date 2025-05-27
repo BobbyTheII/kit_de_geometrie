@@ -10,7 +10,7 @@ Une boîte permettant en fonction du volume posé, de dire soit la formule soit 
 - [@maelys12345](https://github.com/maelys12345) Delthil Maëlys
 
 
-## Contributer
+## Contributeur
 
 - [@sayfelagri](https://github.com/sayfelagri) Sayf El Agri
 *pour sa voix*
