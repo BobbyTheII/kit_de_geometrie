@@ -16,3 +16,15 @@ Une boîte permettant en fonction du volume posé, de dire soit la formule soit 
 *pour sa voix*
 
 
+
+## Note
+
+En fonction de quelle voix utiliser, il faut faire quelque modifications (sur le prototype de la boîte) :
+
+- Voix de Sayf : \
+    utiliser juste le `kit_v3.ino`
+
+- Voix Python : \
+    utiliser le `kit_v2.ino` en changeant `mp3F.play(01)` par `mp3F.play(02)`.
+
+    
