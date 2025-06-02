@@ -1,4 +1,4 @@
-# Projet IJA
+# Kit de géométrie
 Projet réalisé avec le service de Transcodage.
 Une boîte permettant en fonction du volume posé, de dire soit la formule soit la description de ce volume en fonction du bouton appuyé.
 
